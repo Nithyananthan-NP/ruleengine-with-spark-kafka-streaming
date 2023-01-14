@@ -67,3 +67,8 @@ processer will make it as an distributed rule engine
  
  * Shorter development cycles and faster time to market 
 
+# Run Commands
+* Install SBT Build tool 
+* Download project from this repository
+* Run sbt clean compile package
+* Run sbt main
