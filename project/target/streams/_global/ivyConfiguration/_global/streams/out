@@ -1,0 +1,3 @@
+[warn] insecure HTTP request is deprecated 'http://repo1.maven.org/maven2'; switch to HTTPS or opt-in as ("Maven Central Server" at "http://repo1.maven.org/maven2").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://repo.typesafe.com/typesafe/releases/'; switch to HTTPS or opt-in as ("TypeSafe Repository Releases" at "http://repo.typesafe.com/typesafe/releases/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://repo.typesafe.com/typesafe/snapshots/'; switch to HTTPS or opt-in as ("TypeSafe Repository Snapshots" at "http://repo.typesafe.com/typesafe/snapshots/").withAllowInsecureProtocol(true)
