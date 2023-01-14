@@ -35,11 +35,11 @@ processer will make it as an distributed rule engine
   
   * Spark Structured Streaming connects to the Redhat central repository reads the rules from the KIE Server Container and broadcasts the rules to all the     executors in the worker nodes
   
-  * As a next configure the spark structured streaming source to the confluent kafka topic
+  * As a next  step spark structured streaming starts consuming  the source of inputs  from confluent kafka cloud topic
   
-  * Apply rules which are broadcasted to the incoming dataset 
+  * Apply rules which are broadcasted to the incoming datasets 
   
-  * Classify the Result Set in to two different based on the output of the applied rules
+  * Classify the Result Set in to  different data set based on the output of the applied rules
   
   * Store the results in to mongodb
     
