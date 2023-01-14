@@ -43,3 +43,27 @@ processer will make it as an distributed rule engine
   
   * Store the results in to mongodb
     
+# Features and Benefits
+
+ * Powerful tool sets for business and IT users
+ 
+ * Cloud-native architecture
+ 
+ * Rich, standards-based application programming interfaces (APIs)
+ 
+ * Pluggable repository with comprehensive access controls and life-cycle management
+ 
+ * Embeddable, high-performance rules engine
+ 
+ * Automated business decisions
+ 
+ * Accelerated development with business-friendly user interface
+ 
+ * Business rules separated from application code
+ 
+ * Simple configuration and management as embedded APIs or scalable containers using Red Hat OpenShift
+ 
+ * Powerful resource and scheduling optimization
+ 
+ * Shorter development cycles and faster time to market 
+
