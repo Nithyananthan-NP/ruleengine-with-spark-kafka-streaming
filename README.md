@@ -70,5 +70,5 @@ processer will make it as an distributed rule engine
 # Run Commands
 * Install SBT Build tool 
 * Download project from this repository
-* Run sbt clean compile package
-* Run sbt main
+* From command line Run "sbt clean compile package"
+* From command line Run "sbt main"
