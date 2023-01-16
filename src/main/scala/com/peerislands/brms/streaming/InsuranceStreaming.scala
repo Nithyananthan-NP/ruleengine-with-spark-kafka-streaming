@@ -100,15 +100,13 @@ object InsuranceStreaming {
 
     spark.streams.awaitAnyTermination()
   }
-/*
-Load rules based from redhat central repository
-* */
+
 
   /** Load rules based from redhat central repository .
    *
    * @param props  Properties
    * @return KieContainer which contains all the rule base
-   *@throws IOException
+   * @throws IOException
    */
   @throws[IOException]
   def loadRules(props: Properties): KieContainer = {
