@@ -17,6 +17,10 @@ import java.util
 import java.util.Properties
 import java.util.concurrent.{ScheduledThreadPoolExecutor, TimeUnit}
 
+/** A InsuranceStreaming is the spark structured streaming  class which runs continiously.
+ *  Source Clonfluent kafka
+ *  Sink Mongodb Atlas
+ */
 object InsuranceStreaming {
 
   def main(args: Array[String]) {
